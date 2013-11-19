@@ -1,0 +1,7 @@
+vendor
+wp
+wp-config.php
+index.php
+.DS_Store
+app/plugins
+index.php
